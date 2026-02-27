@@ -2,7 +2,7 @@
 name: PBI
 about: Product Backlog Item
 title: "[PBI] "
-labels: ''
+labels: pbi
 assignees: ''
 
 ---
